@@ -30,7 +30,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Haloween-arch&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Haloween-arch&show_icons=true&theme=radical&hide_border=true%22%20alt=%22GitHub%20Stats" />
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Haloween-arch&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </p>
